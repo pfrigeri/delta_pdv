@@ -18,34 +18,34 @@ O desenvolvimento está sendo feito na branch `sistema`.
 
 🖼️ Telas do Sistema
 ### Login
-![Login do Sistema](delta_pdv\ScreenShots\TelaLogin.jpg) 
+![Login do Sistema](ScreenShots/TelaLogin.jpg) 
 Autenticação de usuários.
 
 ### Ponto de Venda
-![Ponto de Venda](delta_pdv\ScreenShots\TelaPDV.jpg) 
+![Ponto de Venda](ScreenShots/TelaPDV.jpg) 
 Tela onde as operações de caixa são realizadas, tais como: busca de produtos no estoque, separados por categoria; escolha da forma de pagamento; transação final e emissão do comprovante de compra.
 
 ### Estoque
-![Estoque](delta_pdv\ScreenShots\TelaEstoque.jpg) 
+![Estoque](ScreenShots/TelaEstoque.jpg) 
 Interface para cadastro de produtos, possibilitando atualização, remoção e adição dos mesmos.
 
 ### Dashboard
-![Dashboard](delta_pdv\ScreenShots\DashBoard.jpg) 
+![Dashboard](ScreenShots/DashBoard.jpg) 
 A tela de Dashboard é o painel principal do sistema Delta PDV, exibindo informações estratégicas em tempo real para auxiliar na gestão do ponto de venda.
 A interface é dividida em seções claras, com dados de faturamento, vendas, estoque e menus de navegação.
 
 ### Clientes
-![Clientes](delta_pdv\ScreenShots\TelaClientes.jpg) 
+![Clientes](ScreenShots/TelaClientes.jpg) 
 Registro editável das informações dos clientes, possibilitando atualização, remoção e adição dos mesmos.
 
 ### Usuarios
-![Usuarios](delta_pdv\ScreenShots\TelaUsuarios.jpg) 
+![Usuarios](ScreenShots/TelaUsuarios.jpg) 
 Registro editável das informações dos usuarios, possibilitando atualização, remoção e adição dos mesmos.
 
 ### Vendas
-![Vendas](delta_pdv\ScreenShots\TelaVendas.jpg) 
+![Vendas](ScreenShots/TelaVendas.jpg) 
 Registro de vendas 
 
 ### Configurações
-![Configurações](delta_pdv\ScreenShots\TelaConfig.jpg) 
+![Configurações](ScreenShots/TelaConfig.jpg) 
 Tela onde as informações do usuário são disponibilizadas para alteração.
