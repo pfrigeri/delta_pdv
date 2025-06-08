@@ -48,4 +48,5 @@ Registro de vendas
 
 ### Configurações
 ![Configurações](ScreenShots/TelaConfig.jpg) 
+
 Tela onde as informações do usuário são disponibilizadas para alteração.
