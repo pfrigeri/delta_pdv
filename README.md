@@ -2,6 +2,8 @@
 
 **Projeto desenvolvido para fins acadêmicos**, simulando um sistema de PDV desktop funcional com interface gráfica (JavaFx) e integração a banco de dados via JDBC.
 
+**Colaboradores:** Projeto feito com grande contribuição de @thiagoSEP121914
+
 ## 🛠️ Tecnologias Utilizadas  
 - **Java**: Lógica de programação, Programação Orientada a Objetos e Arquitetura de Software Model View Controll (MVC).  
 - **JavaFX (SceneBuilder)**: Interface gráfica (telas).  
@@ -16,7 +18,7 @@
 ## 📂 Branch Principal
 O desenvolvimento está sendo feito na branch `sistema`.
 
-🖼️ Telas do Sistema
+## 🖼️ Telas do Sistema
 ### Login
 ![Login do Sistema](ScreenShots/TelaLogin.jpg) 
 Autenticação de usuários.
